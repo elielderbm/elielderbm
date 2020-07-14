@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Embedded Systems, C, C++ and Embedded Linux
 - 🌱 I’m currently learning OOP, Java and Python
-- 📫 How to reach me: Linkedin: elielder.melo
+- 📫 How to reach me: Linkedin: elieldermelo
 
 - 👯 I’m looking to collaborate on Embedded Software, TCP/IP Stack... hard challenges that demands hard work
 
