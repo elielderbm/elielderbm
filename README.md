@@ -1,4 +1,17 @@
 ### Hi there 👋
+### Fala pessoal 👋
+
+### SEJAM TODOS BEM-VINDOS
+### WELCOME TO ALL OF YOU
+
+- 🔭 I’m currently working on Embedded Systems, C, C++ and Embedded Linux
+- 🌱 I’m currently learning OOP, Java and Python
+- 📫 How to reach me: Linkedin: elielder.melo
+
+- 👯 I’m looking to collaborate on Embedded Software, TCP/IP Stack... hard challenges that demands hard work
+
+- ⚡ Interests: Brazilian soccer (São Paulo), Rock n'roll, theology, philosophy, ...
+
 
 <!--
 **elielderbm/elielderbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
