@@ -4,11 +4,13 @@
 ### SEJAM TODOS BEM-VINDOS
 ### WELCOME TO ALL OF YOU
 
-- 🔭 I’m currently working on Embedded Systems, C, C++ and Embedded Linux
-- 🌱 I’m currently learning OOP, Java and Python
+- 🔭 I’m currently working on Cyber Systems, C, C++ and Embedded Linux (kernel, U-boot and DT mostly), MSc in Electrical Eng...
+  
+- 🌱 I’m currently learning AI, Federated Learning in Edge Computing and Cybersecurity...
+  
 - 📫 How to reach me: Linkedin: elieldermelo
 
-- 👯 I’m looking to collaborate on Embedded Software, TCP/IP Stack... hard challenges that demands hard work
+- 👯 I’m looking to collaborate on Embedded Software... hard challenges that demands hard work
 
 - ⚡ Interests: Brazilian soccer (São Paulo), Rock n'roll, theology, philosophy, ...
 
